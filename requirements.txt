@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+Pillow
+PyPDF2
+pandas
+youtube-transcript-api
